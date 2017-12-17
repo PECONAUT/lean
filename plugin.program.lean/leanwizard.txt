@@ -1,0 +1,13 @@
+name="Neptune Build"
+url="https://www.dropbox.com/s/yh4bsagrm72ratv/NeptuneBuild.zip?dl=1"
+img="https://raw.githubusercontent.com/PECONAUT/lean/master/resources/NeptuneBuild.png"
+fanart="https://raw.githubusercontent.com/PECONAUT/lean/master/resources/fanart.jpg"
+description="Developed & Perfected"
+version="1.0"
+
+name="Build Template"
+url="https://www.dropbox.com/s/s7gfe0ealf0nnug/NotABuild.zip?dl=1"
+img="https://raw.githubusercontent.com/PECONAUT/lean/master/resources/NotABuild.png"
+fanart="https://raw.githubusercontent.com/PECONAUT/lean/master/resources/fanart.jpg"
+description="Developed & Perfected"
+version="1.0"
